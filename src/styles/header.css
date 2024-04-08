@@ -1,0 +1,20 @@
+.header {
+    text-align: left;
+    background-color: #0c1b3a;
+    max-height: 20vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.header-text {
+    color: white;
+    font-size: 5vh;
+    font-weight: bold;
+}
+
+.header-image {
+    text-align: left;
+    width: 15%;
+}
